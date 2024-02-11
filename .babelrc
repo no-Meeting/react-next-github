@@ -12,3 +12,5 @@
     ["styled-components", { "ssr": true }]
   ]
 }
+
+// babel 配置
